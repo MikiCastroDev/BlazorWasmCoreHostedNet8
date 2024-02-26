@@ -1,0 +1,1 @@
+# BlazorWasmCoreHostedNet8
