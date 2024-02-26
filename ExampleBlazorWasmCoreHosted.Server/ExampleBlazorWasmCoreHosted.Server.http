@@ -1,0 +1,6 @@
+@ExampleBlazorWasmCoreHosted.Server_HostAddress = http://localhost:5289
+
+GET {{ExampleBlazorWasmCoreHosted.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
